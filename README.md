@@ -1,5 +1,9 @@
 # Lightstreamer SDK for iOS Clients
 
+> ⚠️ **This library is deprecated!**
+>
+> Use the new [Lightstreamer Swift Client SDK](https://github.com/Lightstreamer/Lightstreamer-lib-client-swift) instead.
+
 This SDK includes the resources needed to develop an application for iPhone or iPad that works as a client of Lightstreamer Server.
 
 This client implements the Lightstreamer Unified Client API. The goal of the Unified API is to offer a common set of interfaces and functionalities across different languages and platforms.

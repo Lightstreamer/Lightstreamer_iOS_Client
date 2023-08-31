@@ -1,8 +1,6 @@
 # Lightstreamer SDK for iOS Clients
 
-> ⚠️ **This library is deprecated!**
->
-> Use the new [Lightstreamer Swift Client SDK](https://github.com/Lightstreamer/Lightstreamer-lib-client-swift) instead.
+> ⚠️ **This library has been superseded by a new Lightstreamer Client SDK and is no longer actively maintained. Please find the updated library in the [🔥Lightstreamer Swift Client SDK🔥](https://github.com/Lightstreamer/Lightstreamer-lib-client-swift)**
 
 This SDK includes the resources needed to develop an application for iPhone or iPad that works as a client of Lightstreamer Server.
 

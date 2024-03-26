@@ -6,7 +6,7 @@ _Compatible with Lightstreamer Server since 7.0._<br>
 
 _Compatible with code developed with the previous version._<br>
 
-_Released on 21 Mar 2024_
+_Released on 26 Mar 2024_
 
 Added a privacy manifest.
 
